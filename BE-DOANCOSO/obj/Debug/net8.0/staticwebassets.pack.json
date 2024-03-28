@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BE-DOANCOSO.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BE-DOANCOSO.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\gallery\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-1.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\gallery\\gallery-10.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-10.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\gallery\\gallery-11.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-11.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\gallery\\gallery-12.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-12.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\gallery\\gallery-13.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-13.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\gallery\\gallery-14.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-14.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\gallery\\gallery-15.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-15.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\gallery\\gallery-16.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-16.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\gallery\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-2.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\gallery\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-3.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\gallery\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-4.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\gallery\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-5.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\gallery\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-6.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\gallery\\gallery-7.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-7.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\gallery\\gallery-8.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-8.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\gallery\\gallery-9.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-9.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\portfolio\\app-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\app-1.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\portfolio\\books-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\books-1.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\portfolio\\branding-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\branding-1.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\portfolio\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\product-1.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\profile-img.jpg",
+      "PackagePath": "staticwebassets\\img\\profile-img.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "E:\\code\\BE-DOANCOSO\\BE-DOANCOSO\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BE-DOANCOSO.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BE-DOANCOSO.props",
+      "PackagePath": "build\\BE-DOANCOSO.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BE-DOANCOSO.props",
+      "PackagePath": "buildMultiTargeting\\BE-DOANCOSO.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BE-DOANCOSO.props",
+      "PackagePath": "buildTransitive\\BE-DOANCOSO.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
